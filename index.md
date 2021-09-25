@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+## Shichen Zheng 郑诗晨
 
-You can use the [editor on GitHub](https://github.com/shiczheng/shiczhengusername.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Shichen, a Ph.D. student in Epidemiology at School of Veterinary Medicine, University of California, Davis supervised by Dr. Melanie Dove. Before that, I received my M.P.H. from UCLA Fielding School of Public Health in 2020 and B.A. from Nanjing University of Chinese Medicine in 2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interest
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. E-cigarette flavor ban
+2. Tobacco Control
+
+### Teaching
+
+### Projects
+
+### Awards
+
+### Fun
+A few of my other interests (outside of research!) from past and present:
 
 ```markdown
 Syntax highlighted code block
